@@ -29,6 +29,16 @@ main {
   grid-template-columns: repeat(8, 1fr);
 }
 
-.board-container div :nth-child(odd) {
-  background-color: aqua;
+.board-container div {
+  border: 1px solid black;
+  width: 50px;
+  height: 50px;
+}
+
+.board-cell-white {
+  background-color: white;
+}
+
+.board-cell-black {
+  background-color: black;
 }
