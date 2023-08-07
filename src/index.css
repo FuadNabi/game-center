@@ -16,12 +16,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family:
-    source-code-pro,
-    Menlo,
-    Monaco,
-    Consolas,
-    'Courier New',
-    monospace;
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.board-container {
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+}
+
+.board-container div :nth-child(odd) {
+  background-color: aqua;
 }
