@@ -5,10 +5,26 @@ function Board() {
 
   for (let i = 0; i < 8; i += 1) {
     const cells = [];
+    let cellClass = '';
     for (let j = 0; j < 8; j += 1) {
-      cells.push(<div key={`${i}-${j}`}>[]</div>);
+      // choose class for cell's background color based on coordinates
+      if (i % 2 === 0) {
+        if (j % 2 === 0) {
+          cellClass = 'board-cell-white';
+        } else {
+          cellClass = 'board-cell-black';
+        }
+      } else if (j % 2 === 0) {
+        cellClass = 'board-cell-black';
+      } else {
+        cellClass = 'board-cell-white';
+      }
+
+      cells.push(
+        <div className={cellClass} id={`cell ${i}-${j}`}> </div>,
+      );
     }
-    rows.push(<div key={i}>{cells}</div>);
+    rows.push(<div id={`row ${i}`}>{cells}</div>);
   }
 
   return (
