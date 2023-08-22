@@ -21,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 Game Center <a name="about-project"></a>
 
 > Math Magicians - It is a simple calculator application created with React.
 
@@ -47,7 +47,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://fuadnabi.github.io/math-magicians/)
+- [Live Demo Link](https://github.com/FuadNabi/game-center)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
