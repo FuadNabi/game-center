@@ -60,7 +60,7 @@
 -Reach to following Github URL:
 
 ```
-https://github.com/FuadNabi/math-magicians
+https://github.com/FuadNabi/game-center
 
 ```
 
@@ -71,7 +71,7 @@ https://github.com/FuadNabi/math-magicians
 -Type git clone in the terminal, paste the URL you copied earlier, and press "enter" to create your local clone.
 
 ```
-$ git clone https://github.com/FuadNabi/math-magicians
+$ git clone https://github.com/FuadNabi/game-center
 ```
 
 
@@ -127,7 +127,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/FuadNabi/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/FuadNabi/game-center/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,6 +144,6 @@ Give a **Star** if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/FuadNabi/math-magicians/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/FuadNabi/game-center/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
