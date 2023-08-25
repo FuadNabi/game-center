@@ -96,24 +96,11 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [FuadNabi](https://github.com/FuadNabi)
 - Twitter: [FuadNabiyev](https://twitter.com/FuadNabiyev_)
-- LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev-a5234524a/)
-
-👤 **Author2**
-
-- GitHub: [Mudasiri](https://github.com/mudasiri)
-- Twitter: [MudasirIssah](https://twitter.com/MudasirIssah)
-- LinkedIn: [MudasirIssah](https://www.linkedin.com/in/MudasirIssah/)
-
-👤 **Author3**
-
-- GitHub: [Mudasiri](https://github.com/atatm)
-- Twitter: [MudasirIssah](https://twitter.com/@alelign_ayana)
-- LinkedIn: [MudasirIssah](https://www.linkedin.com/in/alelign_ayana/)
-
+- LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
