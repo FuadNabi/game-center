@@ -74,22 +74,6 @@ https://github.com/FuadNabi/game-center
 $ git clone https://github.com/FuadNabi/game-center
 ```
 
-
-## Usage <a name="usage"></a>
-
-```
-npm start
-```
-
-## Run tests <a name="run-tests"></a>
-
-To run tests, run the following command:
-
-```sh
-  npm test
-```
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
