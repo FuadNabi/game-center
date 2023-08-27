@@ -23,7 +23,7 @@
 
 # 📖 Game Center <a name="about-project"></a>
 
-> Math Magicians - It is a simple calculator application created with React.
+> Game Center - a Virtual hub hosting simple yet engaging single-player games. Perfect for leisurely moments, this website invites you to explore and enjoy a selection of uncomplicated games crafted for solitary amusement.
 
 ## 🛠 Built With <a name="built-with"></a>
 
