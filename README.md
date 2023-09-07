@@ -47,7 +47,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/FuadNabi/game-center)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +79,7 @@ $ git clone https://github.com/FuadNabi/game-center
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+👤 **Fuad Nabiyev**
 
 - GitHub: [FuadNabi](https://github.com/FuadNabi)
 - Twitter: [FuadNabiyev](https://twitter.com/FuadNabiyev_)
