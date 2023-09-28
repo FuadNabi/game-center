@@ -14,7 +14,7 @@
   - [Setup](#setup)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-- [👥 Authors](#authors)
+- [👥 Author](#authors)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
 
@@ -72,7 +72,7 @@ $ git clone https://github.com/FuadNabi/game-center
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Fuad Nabiyev**
 
@@ -83,6 +83,8 @@ $ git clone https://github.com/FuadNabi/game-center
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
+
+Add a game "named tic tok toe"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
