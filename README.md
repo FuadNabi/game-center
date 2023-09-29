@@ -34,6 +34,7 @@
     <li>Html/CSS</li>
     <li>JavaScript</li>
     <li>React</li>
+    <li>Redux</li>
   </ul>
 </details>
 
