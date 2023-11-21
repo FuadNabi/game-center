@@ -1,6 +1,5 @@
 <div align="center">
   <h3><b>Game Center App README</b></h3>
-
 </div>
 
 <a name="readme-top"></a>
@@ -42,9 +41,6 @@
 <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
 
 <!-- GETTING STARTED -->
 
