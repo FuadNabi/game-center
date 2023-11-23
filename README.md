@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><b>Game Center App README</b></h3>
+  <h1><b>Game Center</b></h1>
 </div>
 
 <a name="readme-top"></a>
