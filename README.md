@@ -4,7 +4,10 @@
 
 <a name="readme-top"></a>
 
-# 📗 Table of Contents
+<div align="center">
+<h2><b>📗 Table of Contents</b></h>
+</div>
+
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
