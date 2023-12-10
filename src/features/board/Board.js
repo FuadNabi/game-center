@@ -34,5 +34,4 @@ function Board() {
     </main>
   );
 }
-
 export default Board;
