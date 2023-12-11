@@ -5,26 +5,21 @@ function Board() {
 
   for (let i = 0; i < 8; i += 1) {
     const cells = [];
-    let cellClass = '';
     for (let j = 0; j < 8; j += 1) {
-      // choose class for cell's background color based on coordinates
-      if (i % 2 === 0) {
-        if (j % 2 === 0) {
-          cellClass = 'board-cell-white';
-        } else {
-          cellClass = 'board-cell-black';
-        }
-      } else if (j % 2 === 0) {
-        cellClass = 'board-cell-black';
-      } else {
+      let cellClass = '';
+      if ((i + j) % 2 === 0) {
         cellClass = 'board-cell-white';
+      } else {
+        cellClass = 'board-cell-black';
       }
 
       cells.push(
-        <div className={cellClass} id={`cell ${i}-${j}`}> </div>,
+        <div className={cellClass} key={`cell ${i}-${j}`} />,
       );
     }
-    rows.push(<div id={`row ${i}`}>{cells}</div>);
+    rows.push(
+      <div className="board-row" key={`row ${i}`}>{cells}</div>,
+    );
   }
 
   return (
@@ -34,4 +29,5 @@ function Board() {
     </main>
   );
 }
+
 export default Board;

@@ -24,21 +24,24 @@ main {
 }
 
 .board-container {
-  width: 80%;
-  display: grid;
-  grid-template-columns: repeat(8, 1fr);
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  border: 1px solid black;
 }
 
-.board-container div {
-  border: 1px solid black;
-  width: 50px;
-  height: 50px;
+.board-row {
+  display: flex;
 }
 
 .board-cell-white {
+  width: 50px;
+  height: 50px;
   background-color: white;
 }
 
 .board-cell-black {
+  width: 50px;
+  height: 50px;
   background-color: black;
 }
