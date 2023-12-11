@@ -6,8 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Board />
+        <h1>Game Center</h1>
       </header>
+      <Board />
     </div>
   );
 }
